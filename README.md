@@ -6,7 +6,7 @@
 
 Tap open a letter, dodge the inevitable _No_, celebrate the _Yes_, and explore a story written just for one person.
 
-**[🚀 View Live Demo](https://will-youbemy-wifey.vercel.app/)**
+**[🚀 View Live Demo]()**
 
 <br />
 

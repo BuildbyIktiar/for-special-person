@@ -1,0 +1,38 @@
+{
+  "name": "will_you_be_my_girlfriend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.18.4",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.186.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "autoprefixer": "^10.6.1",
+    "eslint": "^10.12.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "postcss": "^8.5.30",
+    "tailwindcss": "^4.3.0",
+    "typescript": "~7.0.2",
+    "typescript-eslint": "^8.71.2",
+    "vite": "^8.3.4"
+  }
+}

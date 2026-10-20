@@ -6,7 +6,7 @@ export default function HeroSection() {
   const subtitleRef = useRef<HTMLParagraphElement>(null);
   const roseRef = useRef<HTMLSpanElement>(null);
 
-  const titleText = "For My Dearest Abida";
+  const titleText = "For My Dearest Ispa";
 
   useEffect(() => {
     const title = titleRef.current;
@@ -136,7 +136,7 @@ export default function HeroSection() {
           opacity: 0,
         }}
       >
-        Abida, there is something special about you.
+        Ispa, there is something special about you.
         <br />
         And today, I want to tell you what my heart has been holding. 💗
       </p>

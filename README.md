@@ -1,6 +1,6 @@
 <div align="center">
 
-# For You Abida, Always 💖
+# For You Ispa, Always 💖
 
 **A personal, interactive Valentine web experience — built with love and React.**
 

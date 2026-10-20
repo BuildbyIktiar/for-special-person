@@ -9,7 +9,7 @@ export default function YesPage() {
   const subtitleRef = useRef<HTMLParagraphElement>(null);
   const emojiRef = useRef<HTMLSpanElement>(null);
 
-  const titleText = "My Dearest Abida";
+  const titleText = "My Dearest Ispa";
 
   useEffect(() => {
     const title = titleRef.current;
@@ -162,7 +162,7 @@ export default function YesPage() {
               opacity: 0,
             }}
           >
-            Abida, thank you for giving this little story a chance.
+            Ispa, thank you for giving this little story a chance.
             <br />
             Let's fill it with kindness, laughter and beautiful memories. ♥
           </p>
@@ -245,7 +245,7 @@ export default function YesPage() {
           <div style={{ fontSize: "1.8rem", marginBottom: "0.5rem" }}>
             🌹 💗 🌹
           </div>
-          Made with love and a little courage, for Abida.
+          Made with love and a little courage, for Ispa.
         </footer>
       </main>
     </div>
